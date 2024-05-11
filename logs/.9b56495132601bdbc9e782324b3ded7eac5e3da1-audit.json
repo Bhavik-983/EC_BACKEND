@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ankit/Downloads/Ec/Backend/TEMPLATE_BACKEND_NODEJS/logs/.9b56495132601bdbc9e782324b3ded7eac5e3da1-audit.json",
+    "files": [
+        {
+            "date": 1714988571381,
+            "name": "/home/ankit/Downloads/Ec/Backend/TEMPLATE_BACKEND_NODEJS/logs/app-2024-05-06.log",
+            "hash": "337d4af2e33f2d8b189fb375aab4bf1f97a3d0b882d72a0c5ec4a9a037299add"
+        },
+        {
+            "date": 1715057353060,
+            "name": "/home/ankit/Downloads/Ec/Backend/TEMPLATE_BACKEND_NODEJS/logs/app-2024-05-07.log",
+            "hash": "dc1afe70c1c246a8bc3efd1674aa909905112879f57331b5543635b8e6f57632"
+        }
+    ],
+    "hashType": "sha256"
+}

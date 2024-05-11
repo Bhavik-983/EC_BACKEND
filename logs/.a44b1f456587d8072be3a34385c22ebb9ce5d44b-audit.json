@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/softcolon-sahil/Documents/Nodejs/TEMPLATE_BACKEND_NODEJS/logs/.a44b1f456587d8072be3a34385c22ebb9ce5d44b-audit.json",
+    "files": [
+        {
+            "date": 1676965755358,
+            "name": "/Users/softcolon-sahil/Documents/Nodejs/TEMPLATE_BACKEND_NODEJS/logs/app-2023-02-21.log",
+            "hash": "0dcc25ab5908f03ad31b5b00118c11a8475be21b6369f156843d9c49fd66407f"
+        },
+        {
+            "date": 1677035580061,
+            "name": "/Users/softcolon-sahil/Documents/Nodejs/TEMPLATE_BACKEND_NODEJS/logs/app-2023-02-22.log",
+            "hash": "b1c74baaecb258e541f78cf4b1f8ddc229cbecf3286a616cab5a136005a22fe9"
+        },
+        {
+            "date": 1677036650564,
+            "name": "/Users/softcolon-sahil/Documents/Nodejs/TEMPLATE_BACKEND_NODEJS/logs/app-2023-02-22.log.1",
+            "hash": "f20fa544738c1b11613f40915aebf40b162619e86b164102c4b2f32f2848972c"
+        },
+        {
+            "date": 1677036680454,
+            "name": "/Users/softcolon-sahil/Documents/Nodejs/TEMPLATE_BACKEND_NODEJS/logs/app-2023-02-22.log.2",
+            "hash": "169e9a582113bc5bf5adecd73462d94c55d0f3b89e86898a9f35a355bcad6bd1"
+        }
+    ],
+    "hashType": "sha256"
+}

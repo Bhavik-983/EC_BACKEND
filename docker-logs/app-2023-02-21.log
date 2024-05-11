@@ -1,0 +1,9 @@
+{"level":["info"],"timestamp":"21:02:2023|08:02:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:12","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:28","exception":false,"message":"::ffff:172.18.0.1 - - [21/Feb/2023:08:23:36 +0000] \"GET /favicon.ico HTTP/1.1\" 404 972 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:38","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:41","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:36","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:74","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"21:02:2023|08:02:59","exception":false,"message":"MongoDB connected"}
