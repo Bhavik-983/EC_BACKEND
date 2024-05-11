@@ -1,5 +1,5 @@
-import sgMail from "../utilities/sgMailUtilities.js";
-import logger from "../utilities/logger.js";
+import sgMail from '../utilities/sgMailUtilities.js'
+import logger from '../utilities/logger.js'
 
 // SEND TEXT MAIL
 export const sendTextMail = async (to, from, subject, text, attachments) => {
@@ -9,10 +9,10 @@ export const sendTextMail = async (to, from, subject, text, attachments) => {
       from,
       subject,
       text,
-      attachments,
-    });
+      attachments
+    })
   } catch (e) {
-    logger.error(e);
-    return "";
+    logger.error(e)
+    return ''
   }
-};
+}

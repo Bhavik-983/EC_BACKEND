@@ -1,33 +1,33 @@
-import mongoose from "mongoose";
-const Schema = await mongoose.Schema;
+import mongoose from 'mongoose'
+const Schema = await mongoose.Schema
 const adminSchema = await new Schema(
   {
     name: {
-      type: String,
+      type: String
     },
     email: {
-      type: String,
+      type: String
     },
     password: {
-      type: String,
+      type: String
     },
     accessTokenId: {
-      type: String,
+      type: String
     },
     refereshTokenId: {
-      type: String,
+      type: String
     },
     set_password_token: {
-      type: String,
+      type: String
     },
     set_password_token_exp_time: {
-      type: Date,
+      type: Date
     },
     profile: {
-      type: String,
-    },
+      type: String
+    }
   },
   { timestamps: true }
-);
+)
 
-export const AdminSchema = await mongoose.model("admins", adminSchema);
+export const AdminModal = await mongoose.model('admins', adminSchema)
